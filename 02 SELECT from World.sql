@@ -8,7 +8,7 @@ Algeria	Africa	2381741	37100000	188681000000
 Andorra	Europe	468	78115	3712000000
 Angola	Africa	1246700	20609294	100990000000
 ...
-**/
+------------------------------------------------------------------------**/
 
 /*1. Observe the result of running this SQL command to show the name, continent and population 
 of all countries.*/

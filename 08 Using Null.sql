@@ -15,7 +15,7 @@ id	name
 1	Computing
 2	Design
 3	Engineering
-...**/
+------------------------------------------------------------------------**/
 
 /*1. List the teachers who have NULL for their department.*/
 SELECT name FROM teacher WHERE dept IS NULL

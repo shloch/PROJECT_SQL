@@ -1,25 +1,25 @@
 /**# NSS Tutorial
 
 ** 
-Field	Type
-ukprn	varchar(8)
-institution	varchar(100)
-subject	varchar(60)
-level	varchar(50)
-question	varchar(10)
-A_STRONGLY_DISAGREE	int(11)
-A_DISAGREE	int(11)
-A_NEUTRAL	int(11)
-A_AGREE	int(11)
-A_STRONGLY_AGREE	int(11)
-A_NA	int(11)
-CI_MIN	int(11)
-score	int(11)
-CI_MAX	int(11)
-response	int(11)
-sample	int(11)
-aggregate	char(1)
-**/
+Field	                 Type
+ukprn	                 varchar(8)
+institution	             varchar(100)
+subject     	         varchar(60)
+level	                 varchar(50)
+question	             varchar(10)
+A_STRONGLY_DISAGREE	     int(11)
+A_DISAGREE             	 int(11)
+A_NEUTRAL	             int(11)
+A_AGREE	                 int(11)
+A_STRONGLY_AGREE	     int(11)
+A_NA	                 int(11)
+CI_MIN                 	 int(11)
+score	                 int(11)
+CI_MAX	                 int(11)
+response	             int(11)
+sample	                 int(11)
+aggregate	             char(1)
+------------------------------------------------------------------------**/
 
 /*1. The example shows the number who responded for:
 question 1
