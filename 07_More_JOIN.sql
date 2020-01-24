@@ -122,7 +122,8 @@ WHERE m.yr = '1962'
 AND c.ord = '1' 
 
 /*
-  11 - Which were the busiest years for 'John Travolta', show the year and the number of movies he made each year for any year in which he made more than 2 movies.
+  11 - Which were the busiest years for 'John Travolta', show the year and the
+  number of movies he made each year for any year in which he made more than 2 movies.
 
 */
 
